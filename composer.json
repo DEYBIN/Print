@@ -1,0 +1,7 @@
+{
+    "name": "PrintDocs",
+    "description": "application to print ticket by method esc/pos",
+    "require": {
+        "mike42/escpos-php": "^2.1"
+    }
+}
